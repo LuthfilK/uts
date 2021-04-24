@@ -1,0 +1,2 @@
+com/aditya/catatanpenjualan/BuildConfig.java
+ com.aditya.catatanpenjualan.BuildConfig
